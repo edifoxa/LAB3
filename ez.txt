@@ -1,1 +1,3 @@
-To jest lab3.
+To jest lab3. 
+
+A to jest zmiana.
